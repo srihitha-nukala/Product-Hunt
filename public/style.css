@@ -137,6 +137,7 @@ body {
 	display: flex;
 	justify-content: space-between;
 	margin: 0 auto;
+	
 }
 .product_list {
 	box-shadow: 0 1px 2px 0 rgba(253, 249, 249, 0.977);
