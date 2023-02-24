@@ -1,3 +1,10 @@
+Popular Products Application
+<img width="1440" alt="Screenshot 2023-02-22 at 7 23 14 PM" src="https://user-images.githubusercontent.com/83592733/221221335-c5803a89-ef66-4450-852f-b76adc3b8eb2.png">
+<img width="1440" alt="Screenshot 2023-02-22 at 7 23 21 PM" src="https://user-images.githubusercontent.com/83592733/221221366-e5633db9-fdd1-4f01-a3b9-7316d6ae3e1e.png">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
